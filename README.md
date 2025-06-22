@@ -1,6 +1,6 @@
 # Biblioteca Virtual
 
-Este projeto foi desenvolvido como trabalho final da disciplina de Introdução ao Desenvolvimento Web, com o objetivo de aplicar os conhecimentos adquiridos ao longo da matéria. A proposta consistiu na criação de uma biblioteca virtual responsiva, utilizando HTML5, CSS3 e o framework Bootstrap, permitindo a organização de leituras, metas e livros desejados de forma visual, interativa e acessível em diferentes dispositivos.
+Este projeto foi desenvolvido como trabalho final da disciplina de Introdução ao Desenvolvimento Web, com o objetivo de aplicar os conhecimentos adquiridos ao longo da matéria. A proposta consistiu na criação de uma biblioteca virtual responsiva.
 
 ## Interface
 
